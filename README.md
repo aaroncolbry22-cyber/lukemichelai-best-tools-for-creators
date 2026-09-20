@@ -30,7 +30,7 @@ Every tool here is one a working creator can open today. No dead products, no af
 
 Reading a script while looking into the lens is the one thing that separates a take that feels natural from one that feels read. These are the apps that do it.
 
-**[Teleprompter Premium+](https://www.prompterforcreators.com):** a voice controlled teleprompter for iPhone, iPad, Mac and Apple Watch. Instead of scrolling at a fixed speed and making you keep up, it listens and follows your natural pace. `Freemium` · iOS, iPadOS, macOS, watchOS · [App Store](https://apps.apple.com/app/id6779357842) · [Web editor](https://www.prompterforcreators.com) · [Guides](https://guides.teleprompterpremium.app)
+**[Teleprompter Premium+](https://www.teleprompterpremium.app):** a voice controlled teleprompter for iPhone, iPad, Mac and Apple Watch. Instead of scrolling at a fixed speed and making you keep up, it listens and follows your natural pace. `Freemium` · iOS, iPadOS, macOS, watchOS · [App Store](https://apps.apple.com/app/id6779357842) · [Web editor](https://www.teleprompterpremium.app) · [Guides](https://guides.teleprompterpremium.app)
 
 What the apps do, across every device:
 
@@ -306,7 +306,7 @@ Suggestions are welcome. Open a pull request with one tool per entry, in the sam
 
 ## Disclosure
 
-Teleprompter Premium+ is made by [Roadtrip Technologies](https://www.prompterforcreators.com), which also maintains this list. It is listed first because it is the tool this list grew out of, and it is the one entry here with a commercial interest behind it. Nothing else on this page is sponsored, affiliated or paid for, and no tool can buy a place on it.
+Teleprompter Premium+ is made by [Roadtrip Technologies](https://www.teleprompterpremium.app), which also maintains this list. It is listed first because it is the tool this list grew out of, and it is the one entry here with a commercial interest behind it. Nothing else on this page is sponsored, affiliated or paid for, and no tool can buy a place on it.
 
 ## License
 
