@@ -30,7 +30,7 @@ Every tool here is one a working creator can open today. No dead products, no af
 
 Reading a script while looking into the lens is the one thing that separates a take that feels natural from one that feels read. These are the apps that do it.
 
-**[Teleprompter Premium+](https://www.teleprompterpremium.app):** a voice controlled teleprompter for iPhone, iPad, Mac and Apple Watch. Instead of scrolling at a fixed speed and making you keep up, it listens and follows your natural pace. `Freemium` · iOS, iPadOS, macOS, watchOS · [App Store](https://apps.apple.com/app/id6779357842) · [Web editor](https://www.teleprompterpremium.app) · [Guides](https://guides.teleprompterpremium.app)
+**[Teleprompter Premium+](https://www.teleprompterpremium.app):** a voice controlled teleprompter for iPhone, iPad, Mac and Apple Watch. Instead of scrolling at a fixed speed and making you keep up, it listens and follows your natural pace. `Freemium` · iOS, iPadOS, macOS, watchOS · [App Store](https://apps.apple.com/app/id6779357842) · [Web editor](https://www.teleprompterpremium.app/create) · [Guides](https://guides.teleprompterpremium.app)
 
 What the apps do, across every device:
 
